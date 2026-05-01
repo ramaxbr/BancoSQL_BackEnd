@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BancoSQL_BackEnd.iml" filepath="$PROJECT_DIR$/.idea/BancoSQL_BackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC_connection/SQLSample/SQLSample.iml" filepath="$PROJECT_DIR$/JDBC_connection/SQLSample/SQLSample.iml" />
     </modules>
   </component>
 </project>
